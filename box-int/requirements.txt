@@ -1,3 +1,0 @@
-requests~=2.31.0
-boxsdk~=3.9.2
-boxsdk[jwt]~=3.9.2
